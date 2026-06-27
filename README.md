@@ -10,3 +10,6 @@ plate->dive->couple->smile->finger fills view. Proven; high-res final next.
 
 ## 03 - dive hi-res (gen#1, 768 native, 24-step full sampling)
 Sharper faces + richer dive vs 512. SeedVR2->1080p/4K + grain still to come.
+
+## 04 - continuation hi-res (gen#2, 768) - couple smile -> finger fills lens
+Full finish (SeedVR2 7B 1080p + grain + 24/29.97) rendering now.
