@@ -7,3 +7,6 @@ Full sampling (no Lightning), Q8. Iteration res 512; final will be higher + Seed
 
 ## 02 - FULL sequence preview (gen1 dive + gen2 continuation), 512 iteration
 plate->dive->couple->smile->finger fills view. Proven; high-res final next.
+
+## 03 - dive hi-res (gen#1, 768 native, 24-step full sampling)
+Sharper faces + richer dive vs 512. SeedVR2->1080p/4K + grain still to come.
